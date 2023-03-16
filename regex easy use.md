@@ -11,3 +11,7 @@ hex_codes = re.findall(hex_regex, input_str)
 
 # Print the hex color codes
 print(hex_codes)
+
+
+
+r"#([data]{time})|other regex"
