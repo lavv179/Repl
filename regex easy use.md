@@ -15,3 +15,8 @@ print(hex_codes)
 
 
 r"#([data]{time})|other regex"
+
+
+r"value_search([variable_value]{repetitions})|other_condition\b"
+
+\b = limit/strict search
