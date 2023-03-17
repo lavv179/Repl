@@ -1,0 +1,7 @@
+x = {'amar':[12,32,45],
+     'sujal':[36,78,98],
+     'pujan':[34,56,67]}
+
+print(x.items())  #gets all keys and values
+print(x.keys())  #gets all the keys
+print(x.values()) #gets all the values
